@@ -1,2 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_petstore_petstore,oepetstore.message_of_the_day,model_petstore_petstore,,1,0,0,0
+access_petstore_petstore,petstore.petstore,model_petstore_petstore,,1,0,0,0
+access_petstore_msg,oepetstore.message_of_the_day,model_oepetstore_message_of_the_day,,1,0,0,0
