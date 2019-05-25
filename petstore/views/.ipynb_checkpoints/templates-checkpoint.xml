@@ -5,8 +5,8 @@
         
         <template id="assets_backend" name="petstore_assets" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
-                <link rel="stylesheet" href="/oepetstore/static/src/css/petstore.css"/>
-                <script type="text/javascript" src="/oepetstore/static/src/js/petstore.js"/>
+                <link rel="stylesheet" href="/petstore/static/src/css/petstore.css"/>
+                <script type="text/javascript" src="/petstore/static/src/js/petstore.js"/>
             </xpath>
         </template>        
         
